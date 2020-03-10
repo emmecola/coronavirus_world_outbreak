@@ -1,7 +1,6 @@
 <div align="center"><h1>Coronavirus outbreak across the world</h1></div>
 <div align="center">Collection of histogram plots tracking the coronavirus outbreak worldwide</div>
 <hr>
-<<<<<<< HEAD
 <div align="center"><img src="img/plot_Afghanistan.png?raw=true" width="80%"/></div>
 <div align="center"><img src="img/plot_Albania.png?raw=true" width="80%"/></div>
 <div align="center"><img src="img/plot_Algeria.png?raw=true" width="80%"/></div>
