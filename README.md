@@ -1,4 +1,4 @@
-<div align="center"><h1>Coronavirus outbreak across the world</h1></d>
+<div align="center"><h1>Coronavirus outbreak across the world</h1></div>
 <div align="center">Collection of histogram plots tracking the coronavirus outbreak worldwide</div>
 <hr>
 <div align="center"><img src="img/plot_Afghanistan.png?raw=true" height="500"/></div>
