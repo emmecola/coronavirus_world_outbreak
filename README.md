@@ -1,3 +1,4 @@
+*
 <div align="center"><h1>Coronavirus outbreak across the world</h1></div>
 <div align="center">Collection of histogram plots tracking the coronavirus outbreak worldwide</div>
 <hr>
