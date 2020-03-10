@@ -42,12 +42,12 @@ plotCases <- function(dataframe,COUNTRY)
   p <-ggplot(data=df, mapping=aes(x=date, y=cases, fill=factor(type, levels = c("recovered","currently infected","dead")))) + 
     geom_bar(stat="identity") + 
     scale_fill_manual("type", values = c("currently infected" = "sienna1", "dead" = "black", "recovered" = "royalblue")) + 
-    ggtitle(paste("SARS-COV-2 in",COUNTRY,sep=" ")) + 
+    ggtitle(paste("SARS-COV-2 in ",COUNTRY," (",format(end,"%d/%m/%y"),")",sep="")) + 
     scale_x_date(date_labels="%d/%m")
-
-  ggsave(paste("plot_",str_replace(COUNTRY," ","_"),".png",sep=""), device='png', limitsize=TRUE)
   
-  }
+  ggsave(paste("plot_",str_replace(COUNTRY," ","_"),".png",sep=""), device='png', limitsize=TRUE, width=10, height=7, units='in')
+  
+}
 
 # PLOT ALL COUNTRIES
 for (C in unique(coronavirus$Country.Region))
