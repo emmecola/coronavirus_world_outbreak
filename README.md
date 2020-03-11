@@ -1,5 +1,5 @@
 <div align="center"><h1>Coronavirus outbreak across the world</h1></div>
-<div align="center">Collection of histogram plots tracking the coronavirus outbreak worldwide</div>
+<div>These histogram plots track the coronavirus outbreak worldwide. I used the data coming from the <a href='https://github.com/RamiKrispin/coronavirus' target='_blank'>coronavirus</a> R package, which is updated daily and maintained by Rami Krispin.</div>
 <hr>
 <div align="center"><img src="img/plot_Mainland_China.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Italy.png?raw=true" width="100%"/></div>
