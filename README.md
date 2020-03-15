@@ -45,12 +45,12 @@
 <div align="center"><img src="img/plot_India.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Indonesia.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Lebanon.png?raw=true" width="100%"/></div>
-<div align="center"><img src="img/plot_United_Arab Emirates.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/plot_United_Arab_Emirates.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Thailand.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_San_Marino.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Chile.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Russia.png?raw=true" width="100%"/></div>
-<div align="center"><img src="img/plot_Taiwan*.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/plot_Taiwan.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Vietnam.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Luxembourg.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Serbia.png?raw=true" width="100%"/></div>
@@ -76,7 +76,7 @@
 <div align="center"><img src="img/plot_Colombia.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Oman.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Armenia.png?raw=true" width="100%"/></div>
-<div align="center"><img src="img/plot_Bosnia_and Herzegovina.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/plot_Bosnia_and_Herzegovina.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Malta.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Tunisia.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Morocco.png?raw=true" width="100%"/></div>
@@ -115,10 +115,10 @@
 <div align="center"><img src="img/plot_Namibia.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Nigeria.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Seychelles.png?raw=true" width="100%"/></div>
-<div align="center"><img src="img/plot_Trinidad_and Tobago.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/plot_Trinidad_and_Tobago.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Venezuela.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Andorra.png?raw=true" width="100%"/></div>
-<div align="center"><img src="img/plot_Antigua_and Barbuda.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/plot_Antigua_and_Barbuda.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Bhutan.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Cayman_Islands.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Cote_d'Ivoire.png?raw=true" width="100%"/></div>
@@ -139,8 +139,8 @@
 <div align="center"><img src="img/plot_Nepal.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Rwanda.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Saint_Lucia.png?raw=true" width="100%"/></div>
-<div align="center"><img src="img/plot_Saint_Vincent and the Grenadines.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/plot_Saint_Vincent_and_the_Grenadines.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Sudan.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Suriname.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Togo.png?raw=true" width="100%"/></div>
-<div align="center"><img src="img/plot_occupied_Palestinian territory.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/plot_occupied_Palestinian_territory.png?raw=true" width="100%"/></div>
