@@ -1,6 +1,6 @@
 <div align="center"><h1>Coronavirus outbreak across the world</h1></div>
-<div>Below you find a collection of histogram plots tracking the coronavirus outbreak worldwide (one plot for each country). However, please be careful when directly comparing two countries!
-First of all, each country might use different criteria to identify cases. Second, population age distribution might differ in different countries, and since SARS-COV-2 is more lethal in older people, death rate may appear higher in countries with older populations.</div>
+<div>This page is a collection of histogram plots tracking the SARS-COV-2 outbreak worldwide (one plot for each country). However, please be careful when directly comparing two plots!
+First of all, each country might use different criteria to identify cases. Second, population age distribution might differ in different countries, and since the virus is more lethal in older people, death rate may appear higher in countries with older populations.</div>
 <hr>
 <div align="center"><img src="img/plot_China.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Italy.png?raw=true" width="100%"/></div>
